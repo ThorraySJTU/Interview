@@ -13,6 +13,15 @@
 ```
 - [x] 读取带空格的字符串 getline(cin, s)
 
+- [ ] 正态分布
+
+```
+P(\mu - \sigma <= X <= \mu + \sigma) = 0.6828
+P(\mu - 2\sigma <= X <= \mu + 2\sigma) = 0.9544
+P(\mu - 3\sigma <= X <= \mu + 3\sigma) = 0.9974
+```
+- [ ] 牛顿法求解
+
 ## 字节跳动
 
 算法题目：
