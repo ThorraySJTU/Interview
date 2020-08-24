@@ -22,6 +22,12 @@ P(\mu - 3\sigma <= X <= \mu + 3\sigma) = 0.9974
 ```
 - [ ] 牛顿法求解
 
+- [ ] KMP算法
+
+- [ ] map / multimap的底层实现是红黑树，查找的复杂度为O（logN），unordered_map的底层实现是哈希表，查找的复杂度为O（1）
+
+- [ ] BatchNorm是对一个Batch下的多张图片的同一通道做Normalization
+
 ## 字节跳动
 
 算法题目：
